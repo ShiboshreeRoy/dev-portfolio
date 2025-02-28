@@ -40,7 +40,7 @@ A modern, responsive portfolio website built for developers to showcase their sk
 The portfolio is fully responsive and optimized for various screen sizes:
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <img src="./src/profile/ML-Size.pngc:\Users\manur\Downloads\screencapture-nihalroymatz-netlify-app-2025-03-01-01_39_30.png" alt="Mobile View" width="30%" />
+  <img src="./src/profile/ml.png" alt="Mobile View" width="30%" />
   <img src="./src/profile/Tb.png" alt="Tablet View" width="30%" />
   <img src="./src/profile/demo.png" alt="Desktop View" width="30%" />
 </div>
