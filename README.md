@@ -40,9 +40,9 @@ A modern, responsive portfolio website built for developers to showcase their sk
 The portfolio is fully responsive and optimized for various screen sizes:
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <img src="https://i.imgur.com/JKgX8vN.png" alt="Mobile View" width="30%" />
-  <img src="https://i.imgur.com/L2JYpkL.png" alt="Tablet View" width="30%" />
-  <img src="https://i.imgur.com/Yl2JyVl.png" alt="Desktop View" width="30%" />
+  <img src="./src/profile/ML-Size.pngc:\Users\manur\Downloads\screencapture-nihalroymatz-netlify-app-2025-03-01-01_39_30.png" alt="Mobile View" width="30%" />
+  <img src="./src/profile/Tb.png" alt="Tablet View" width="30%" />
+  <img src="./src/profile/demo.png" alt="Desktop View" width="30%" />
 </div>
 
 ## 🌙 Dark Mode Support
@@ -50,8 +50,8 @@ The portfolio is fully responsive and optimized for various screen sizes:
 The portfolio includes a toggle for dark/light mode and automatically detects system preferences:
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <img src="https://i.imgur.com/Yl2JyVl.png" alt="Light Mode" width="48%" />
-  <img src="https://i.imgur.com/8XR9Wh3.png" alt="Dark Mode" width="48%" />
+  <img src="./src/profile/ml.png" alt="Light Mode" width="48%" />
+  <img src="./src/profile/ML-Size.png" alt="Dark Mode" width="48%" />
 </div>
 
 ## 🚀 Getting Started
