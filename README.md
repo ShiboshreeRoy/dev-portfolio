@@ -1,8 +1,8 @@
 # DevPortfolio - Professional Developer Portfolio
 
-![DevPortfolio Preview](https://i.imgur.com/Yl2JyVl.png)
+![DevPortfolio Preview](./src/profile/demo.png)
 
-## 🚀 [Live Demo](https://iridescent-llama-d3b810.netlify.app/)
+## 🚀 [Live Demo](https://nihalroymatz.netlify.app/)
 
 A modern, responsive portfolio website built for developers to showcase their skills, projects, and professional experience. This portfolio features a clean design with dark mode support, smooth scrolling navigation, and interactive elements.
 
